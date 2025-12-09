@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "893479560077",
+    "project_id": "healifybycambridge",
+    "storage_bucket": "healifybycambridge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893479560077:android:718a1a28393c87835c13c4",
+        "android_client_info": {
+          "package_name": "com.cambridgefoundationschool.install"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893479560077-tojr8v119u4p17q12hqkm67n3oarhp8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cambridgefoundationschool.install",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "893479560077-ud3buomsq55ivppbc1l7kt473ld0dlkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzty8yDSaWhZxSEaSVLVFp_vxmVQSamlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893479560077-ud3buomsq55ivppbc1l7kt473ld0dlkr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893479560077-rvl77k9nb6on2b540o5tp05pm8jbv945.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cambridgefoundationschool.install"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
